@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(225, 19, 100)
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+
+
+a {
+    background-color: green;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    display: block;
+    width: 70px;
+    margin: 0 auto;
+
+}
+
+p {
+    text-align: center;
+}
+
+article {
+    padding: 50px;
+
+}
+
+img {
+    margin-top: 50px;
+    margin-left: 200px;
+    
+}
